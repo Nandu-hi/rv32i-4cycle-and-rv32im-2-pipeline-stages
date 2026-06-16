@@ -1,0 +1,1 @@
+compile: "riscv-unknown-elf-gcc -T linker.ld sv48.s"

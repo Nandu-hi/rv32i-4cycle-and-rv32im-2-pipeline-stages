@@ -1,0 +1,1 @@
+compile: "riscv-unknown-elf-gcc -T linker.ld page_faults.s"

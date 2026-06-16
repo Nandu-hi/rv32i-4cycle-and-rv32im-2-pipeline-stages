@@ -1,0 +1,1 @@
+Compile: "riscv-unknown-elf-gcc -T link.ld Timer_Interrupt.S helper.c"
